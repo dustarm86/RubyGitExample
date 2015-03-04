@@ -10,3 +10,5 @@ print "Where did you go to high-school? "
 school = gets.chomp
 
 puts "So, you're #{age} old, #{height} tall, #{weight} ibs heavy, born in #{born}, and went to high-school at #{school}."
+
+#Hi Im a comment!!
